@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "171669642123",
+    "firebase_url": "https://roadmanager-6071f.firebaseio.com",
+    "project_id": "roadmanager-6071f",
+    "storage_bucket": "roadmanager-6071f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171669642123:android:40d1ece907c6e67f202d8e",
+        "android_client_info": {
+          "package_name": "com.example.Road_map"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171669642123-v2rdclh6ukspvbbks8mleim8h830fdes.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX06E5wsv4ZB-iwe2B8gZu8FOwDqTrfUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171669642123-v2rdclh6ukspvbbks8mleim8h830fdes.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
